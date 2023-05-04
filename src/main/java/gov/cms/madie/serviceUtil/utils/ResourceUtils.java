@@ -1,4 +1,4 @@
-package gov.cms.madie.serviceUtil.utils;
+package gov.cms.madie.serviceutil.utils;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -8,7 +8,7 @@ import org.apache.commons.lang3.StringUtils;
 import org.hl7.fhir.r4.model.Bundle;
 import org.hl7.fhir.r4.model.Resource;
 
-import gov.cms.madie.serviceUtil.exceptions.InternalServerException;
+import gov.cms.madie.serviceutil.exceptions.InternalServerException;
 
 
 
